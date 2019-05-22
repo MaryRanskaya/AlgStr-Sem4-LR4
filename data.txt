@@ -1,0 +1,5 @@
+Saint-Petersberg;Moscow;40;20
+Moscow;Kaliningrad;30;15
+Saint-Petersberg;Murmansk;10;10
+Murmansk;Moscow;10;N/A
+Penza;Moscow;90;10
